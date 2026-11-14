@@ -59,17 +59,17 @@ $$
 **From the step 3/4 (honestly not sure lolz) of the Dynamic programming, we continue:**
 
 ## 4. Components
-*Please don't pay too much attention to the names as- I couldn't read them properly to be honest*
+Names taken from the slides
 
 **Initialization:** $S \leftarrow \{0\}$
 
 **Completion:** $n\in S$
 
-**Candidates:** $Candidates(S) = G(s_{last})$
+**Generation:** $Candidates(S) = G(s_{last})$
 
 **Selection:** $Select(S,C) = \max(C)$ 
 
-**Insertion:** $S \leftarrow S \cup \{\text{selected station}\}$
+**Extension:** $S \leftarrow S \cup \{\text{selected station}\}$
 
 ## 5. Algorithm
 ```
