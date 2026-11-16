@@ -11,4 +11,6 @@ $ S = \{s_1,\dots,s_n\}$
 
 ## 2. Objective Function
 
-$\min 
+## ...
+
+## 6. Bellman equation!! >w<''
