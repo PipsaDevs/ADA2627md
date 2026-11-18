@@ -61,7 +61,7 @@ We will define $S'''$ as $S'''=<v_1^*, v_2'', v_3'',...,v_n''>=S''\cup \{v_1^*\}
 
 Its total time will be:
 
-$T(S''')=\cancel{\frac{L}{v_1^*}}+T(S'')<\cancel{\frac{L}{v_1^*}}+T(S')=T(S^*)$yt
+$T(S''')=\cancel{\frac{L}{v_1^*}}+T(S'')<\cancel{\frac{L}{v_1^*}}+T(S')=T(S^*)$
 
 $T(S''')<T(S^*)$ is not possible because $S^*$ is the optimal set, hence we have proven that $S'_{2\to n}$ is optimal by contradiction.
 
